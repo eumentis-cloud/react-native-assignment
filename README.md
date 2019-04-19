@@ -56,7 +56,7 @@ The schema of the data received in the response is:
 {
   results: [
     {
-	  // Full name is displayed in the user's profile card
+      // Full name is displayed in the user's profile card
       name: {
         first,
         last,
