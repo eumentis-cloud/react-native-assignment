@@ -72,7 +72,7 @@ The schema of the data received in the response is:
       // User's mobile no.
       cell,
       picture: {
-	      // The URL for user's profile picture
+	// The URL for user's profile picture
         large,
       }
     }
